@@ -14,5 +14,7 @@ I had to rebuild it, since I need two different LEDs to be able to measure the o
 To stream the data to the browser I'm doing something like this: arduino->serial port->pyton websocket server->javascript websocket client
 
 Schematics:
-![Alt text](/img/schematics.png "schm")
+
+
+![Alt text](/img/schematic.png "schm")
 
